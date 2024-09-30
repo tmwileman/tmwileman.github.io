@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://www.thomaswileman.com'
-baseurl: ''
+baseurl: 'https://www.thomaswileman.com'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
